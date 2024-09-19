@@ -7,6 +7,10 @@
         {
             "name": "Halil \u0130brahim",
             "status": "Deactivate"
+        },
+        {
+            "name": "mr_eros",
+            "status": "Deactivate"
         }
     ]
 }
