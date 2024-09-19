@@ -2,7 +2,7 @@
     "users": [
         {
             "name": "Yunus Emre",
-            "status": "Deactivate"
+            "status": "Activate"
         },
         {
             "name": "Halil \u0130brahim",
