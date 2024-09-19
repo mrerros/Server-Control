@@ -10,7 +10,7 @@
         },
         {
             "name": "mr_eros",
-            "status": "Deactivate"
+            "status": "Activate"
         }
     ]
 }
