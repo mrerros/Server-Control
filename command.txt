@@ -2,11 +2,11 @@
     "users": [
         {
             "name": "Yunus Emre",
-            "status": false
+            "status": "Activate"
         }
         {
             "name": "Halil İbrahim",
-            "status": false
+            "status": "Activate"
         }
     ]
 }
