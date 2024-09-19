@@ -2,8 +2,11 @@
     "users": [
         {
             "name": "Yunus Emre",
-            "status": false,
-            "end_date": "21.09.2024"
+            "status": false
+        }
+        {
+            "name": "Halil İbrahim",
+            "status": false
         }
     ]
 }
