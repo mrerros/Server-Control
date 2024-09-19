@@ -4,10 +4,9 @@
             "name": "Yunus Emre",
             "status": "Activate"
         },
-
         {
-            "name": "Halil İbrahim",
-            "status": "Activate"
+            "name": "Halil \u0130brahim",
+            "status": "Deactivate"
         }
     ]
 }
