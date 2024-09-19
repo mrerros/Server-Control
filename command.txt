@@ -3,7 +3,8 @@
         {
             "name": "Yunus Emre",
             "status": "Activate"
-        }
+        },
+
         {
             "name": "Halil İbrahim",
             "status": "Activate"
